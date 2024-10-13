@@ -1,0 +1,2 @@
+Hello plz debug the error when i click the userprofile, it redirects the the URL 'profile.html' which is completely incorrect,
+while the actual URL i pointed to in base/templates/activity_component was profile/<int:pk>
